@@ -1,6 +1,6 @@
 # start
 ```
-$ docker-compose  -d
+$ docker-compose up -d
 ```
 # execute src/XXXX.php | src/XXXX/XXXX.php
 ```
